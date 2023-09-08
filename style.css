@@ -1,0 +1,39 @@
+/* Heading Styles Begin Here */
+
+h2{
+    color:blue;
+    font-family:'Times New Roman', Times, serif;
+    font-size:300%;
+    background-color:orange;
+}
+
+h3{
+    color:purple;
+    font-family:'Times New Roman', Times, serif;
+    font-size:200%;
+    background-color: blanchedalmond;
+}
+
+ol{
+    text-indent:10%;
+    color:brown;
+    font-family:cursive;
+}
+
+p{
+    color: brown;
+    font-family:cursive;
+}
+
+em{
+    color:olive;
+    font-weight: bold;
+}
+
+.custards{
+    text-decoration: underline;
+}
+
+.plain{
+    list-style-type:none;
+}
